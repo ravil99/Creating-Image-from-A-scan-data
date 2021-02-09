@@ -1,6 +1,6 @@
 # Creating-Image-from-A-scan-data
-Hello! This is my research project I have made in 2018-2019 autumn semester.
-The goal of my project was create image of an object from A-scan data measured from ultrasonic sensors. So, consider it like ultrasonic flaw detector or ultrasound machine.
+Hello! This is my research project I have made in the 2018-2019 autumn semester.
+The goal of my project was to create image of an object from A-scan data measured from ultrasonic sensors. So, consider it like an ultrasonic flaw detector or an ultrasound machine.
 
 Now I will explain how does it work:
 
